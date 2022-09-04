@@ -5,9 +5,24 @@ shared.stop = true -- stops the player at any time if true
 shared.ftime = 9*60 + 25 -- time in seconds for the song to finish (extended by |)
 shared.delay = nil -- delay overides the ftime
 shared.tempo = nil -- tempo overides the delay
-fDfDfads [p6] 0e tup [a3] 0W uOa [s6] 0e u fDfDfads [p6] 0e tup [a3] 0W usa [p6] 0e
-fDfDfads [p6] 0e tup [a3] 0W uOa [s6] 0e u fDfDfads [p6] 0e tup [a3] 0W usa [p6] 0e
-asd [f8] wt ogf [d5] wr ifd [s6] 0e uds [a3] 0 uufuff x DfDfDfDfDfads [p6] 0e tup [a3] 0W uOa [s6] 0e u fDfDfads
-[p6] 0e tup [a3] 0W usa [p6] 0e fDfDfads [p6] 0e tup [a3] 0W uOa [s6] 0e u fDfDfads [p6] 0e tup [a3] 0W usa [p6] 0e
-fDfDfads [p6] 0e tup [a3] 0W usa [p6] 0e asd [f8] wt ogf [d5] wr ifd [s6] 0e uds [a3] 0 uufuffx DfDfDfDfads [p6] 0e tup
-[a3] 0W uOa [s6] 0e u fDfDfads [p6] 0e tup [a3] 0W usa [6t0p]
+f D f D f a d s [6p]
+0 e t u p [3a]
+0 W u O a [6s]
+0 e u f D f
+D f a d s [6p]
+0 e t u p [3a]
+0 W y s a [6p] 0 e f D f D f a d s [6p] 0 e t u p [3a] 0 W u O a [6s] 0 e u f D f
+D f a d s [6p]
+0 e t u p [3a]
+0 W y s a [6p]
+0 e a s d [8f]
+w t o g f [5d]
+w r i f d [6s]
+0 e u d s [3a]
+0 u u f u f
+f x D f D f
+D f D f D f
+D f a d s [6p]
+0 e t u p [3a]
+0 W u O a [6s]
+0 e u f D f
