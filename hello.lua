@@ -5,24 +5,4 @@ shared.stop = true -- stops the player at any time if true
 shared.ftime = 9*60 + 25 -- time in seconds for the song to finish (extended by |)
 shared.delay = nil -- delay overides the ftime
 shared.tempo = nil -- tempo overides the delay
-f D f D f a d s [6p]
-0 e t u p [3a]
-0 W u O a [6s]
-0 e u f D f
-D f a d s [6p]
-0 e t u p [3a]
-0 W y s a [6p] 0 e f D f D f a d s [6p] 0 e t u p [3a] 0 W u O a [6s] 0 e u f D f
-D f a d s [6p]
-0 e t u p [3a]
-0 W y s a [6p]
-0 e a s d [8f]
-w t o g f [5d]
-w r i f d [6s]
-0 e u d s [3a]
-0 u u f u f
-f x D f D f
-D f D f D f
-D f a d s [6p]
-0 e t u p [3a]
-0 W u O a [6s]
-0 e u f D f
+T y p [9tp] [(t] p a s a o [wrtu] [wrtu] [Twru] [Twru] O p t [9qet] [5q] [5q] e E r t y t [10WE] [W39r] [0y] [6ws] [6wa] [6wp] [6wo] i [9t] [9t] o [9tp] [9ts] [5qp] P a [5qp] [5qo] [5qi] u [8r] [8r] [8E] [8E] [qe] p [qeo] [qei] [qeu] y [7e] [7e] u [7ei] [7ep] O [0W] [W0i] [W0u] i u [W0y] t [6w] [6w] [9Q] [9Q] T [9ty] p [9tp] [9t] [9t] [(t] [(t] [(tp] s [(ta] [uo] [0y] [0y] [0y] [0y] [eT] [eT] [eT] [eT] r [9et] i [9t] i [9t] [9t] [5q] [5q] t [ip] r [uo] e [8yi] [8wru] [7eyp] 7 e y i p [0yWO] p a [us] [us] [ya] [1tp] [3ro] [ei] 2 3 o [4p] o [6s] [5ya] [ya] [6tp] [7ro] [9ei] [wu] 8 1 2 3 5 $ 4 p [5o] [6i] [8u] y 7 8 u [9i] [qp] O 0 O [(i] [9u] i u [7y] t 6 6 7 8 * 9 y [2t] p 4 6 @ $ [6p] P a s [8a] f 3 5 ^ 9 * * ^ 6 6 [5f] f s s [qety] [etQY] D f s s [wrtu] [Twru] u o p s [2f] s 3 s 4 $ [5q] [5q] [6p] [^P] [7a] [8s] [9d] [8s] [8uOP] [O0ya] [6tuo] [9tuI] [E5yi] [E1ip] [E1ip] p P a s [rtu] a p [Tru] o i [qeu] o p [eQY] s a [qWY] p o [Wqy] i u [0WT] [wet] 4 a j [3h] [2g] h [1f] d 1 f [2g] [4j] H 3 g [@f] d 2 P [a] s 1 u [6s] u s a u w a p u p [ruo] [eti] 9 [4o] p P a s $ [5a] s a p a p o [Wri] [wru] 1 E E e [qtup] [0tuo] [qtui] [tu] [Wy] 3 [$tu] [%yi] [tup] [yO] 7 [Wyi] [Twu] 3 T y t 6 7 8 * 9 t O [Ytp] 3 4 $ 5 O [qp] [Yps] [Oya] [oaf] 3 5 ^ % [6p] [7a] [*S] [Pof] f s [qtyps] [tQY] I p s [9pD] [i%D] [5f] s [rtuos] [Tru] [Tru] u o p s [2i] p s f s 3 [is] 4 $ 5 v h v h e E r t y t [fl] 8 [gl] 9 [Gl] ( [hl] [$C] [5v] [1xm]
